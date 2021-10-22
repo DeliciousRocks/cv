@@ -1,35 +1,28 @@
 # Walter Squires
-Doctoral Candidate, Early Stage
-University of Tennessee, Knoxville                                      cell: +1-631-603-7593
-                                                                                             email: wsquires@vols.utk.edu
+Doctoral Candidate, Early Stage <br>
+University of Tennessee, Knoxville                                      
+_cell_: +1-631-603-7593 <br>
+_email_: wsquires@vols.utk.edu
 ## EDUCATION
 * **University of Tennesee, Knoxville**, Knoxville, TN, USA
+  * Advisor: Prof. Doowon Kim
+* **Iona College**, New Rochelle, NY, USA
+  Bachelor of Science in _Computer Science_, May 2016
+  * Graduated Cum Luade
+  * Graduated with a concentration in Cyber Security and a minor in Mathematics 
 
-## Welcome to GitHub Pages
+## Honors & Awards
+* MOBILESoft Student Research Competition, Second Place (2016)
+* ACSAC Conferenceship (2015)
+* SAS Student Research Grant (2015)
+* Iona College Honors Council American Express Grant (2015)
 
-You can use the [editor on GitHub](https://github.com/DeliciousRocks/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Publications
+[1] W. Squires and P. Centonze, "Cross-Platform Access-Rights Analysis of Mobile Applications," 2016 IEEE/ACM International Conference on Mobile Software Engineering and Systems (MOBILESoft), 2016, pp. 295-296, doi: 10.1109/MobileSoft.2016.067. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
+## Teaching
+* COSC 401: Senior Design Theory, _UTK_, Teaching Assistant, Fall 2021.
+* Assistant Teacher, _Emerald Charter Schools_, Feb 2021 - Jun 2021.
+* Substitute Teacher, _Emerald Charter Schools_, Oct 2020 - Feb 2021.
+* Lead Teacher, _Spectrum School_, Aug 2020 - Oct 2020.
+* Elementry School STEAM Educator, _UU World of Children_, Feb 2018 - May 2020.
