@@ -1,8 +1,9 @@
-### Walter Squires
+# Walter Squires
 Doctoral Candidate, Early Stage
 University of Tennessee, Knoxville                                      cell: +1-631-603-7593
                                                                                              email: wsquires@vols.utk.edu
-
+## EDUCATION
+* **University of Tennesee, Knoxville**, Knoxville, TN, USA
 
 ## Welcome to GitHub Pages
 
